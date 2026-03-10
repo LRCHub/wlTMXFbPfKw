@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "奇縁ロマンス",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2026-03-10T10:35:35.970818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "奇縁ロマンス - TV size ver.",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/01_奇縁ロマンス_-_TV_size_ver._ナナヲアカリ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "奇縁ロマンス",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/02_奇縁ロマンス_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "奇縁ロマンス (TV size ver.)",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/03_奇縁ロマンス_(TV_size_ver.)_ナナヲアカリ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "奇縁ロマンス (TV size ver.)",
+      "artist": "Nanawo, Akari",
+      "has_synced": false,
+      "path": "select/04_奇縁ロマンス_(TV_size_ver.)_Nanawo,_Akari.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "奇縁ロマンス - TV size ver.",
+      "artist": "NANAOAKARI",
+      "has_synced": false,
+      "path": "select/05_奇縁ロマンス_-_TV_size_ver._NANAOAKARI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奇縁ロマンス",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_奇縁ロマンス_ナナヲアカリ.txt"
+    }
+  ]
+}
